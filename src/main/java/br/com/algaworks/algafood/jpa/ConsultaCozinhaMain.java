@@ -9,6 +9,7 @@ import org.springframework.context.ApplicationContext;
 
 import br.com.algaworks.algafood.AlgafoodApiApplication;
 import br.com.algaworks.algafood.domain.model.Cozinha;
+import br.com.algaworks.algafood.domain.repository.CozinhaRepository;
 
 public class ConsultaCozinhaMain {
 
